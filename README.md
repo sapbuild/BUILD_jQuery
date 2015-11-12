@@ -1,3 +1,8 @@
+[![Build](https://img.shields.io/travis/sapbuild/jQuery.svg?style=flat-square)](http://travis-ci.org/sapbuild/jQuery)
+[![Version](https://img.shields.io/npm/v/norman-jquery.svg?style=flat-square)](https://npmjs.org/package/norman-jquery)
+[![Dependency Status](https://david-dm.org/sapbuild/jQuery.svg)](https://david-dm.org/sapbuild/jQuery)
+[![devDependency Status](https://david-dm.org/sapbuild/jQuery/dev-status.svg)](https://david-dm.org/sapbuild/jQuery#info=devDependencies)
+
 jQuery-norman
 ==================================================
 
